@@ -1,0 +1,181 @@
+1. https://www.wikipedia.org/
+
+Request URL: https://www.wikipedia.org/
+Request Method: GET
+Status Code: 304 
+Remote Address: 91.198.174.192:443
+Referrer Policy: origin-when-cross-origin
+age: 34281
+backend-timing: D=193 t=1521793174140158
+cache-control: s-maxage=86400, must-revalidate, max-age=3600
+content-encoding: gzip
+content-type: text/html
+date: Fri, 23 Mar 2018 17:50:56 GMT
+etag: W/"122ea-567c1f68db213"
+last-modified: Mon, 19 Mar 2018 11:07:26 GMT
+server: mw1252.eqiad.wmnet
+status: 304
+strict-transport-security: max-age=106384710; includeSubDomains; preload
+vary: Accept-Encoding
+via: 1.1 varnish (Varnish/5.1), 1.1 varnish (Varnish/5.1), 1.1 varnish (Varnish/5.1)
+x-analytics: WMF-Last-Access=23-Mar-2018;WMF-Last-Access-Global=23-Mar-2018;https=1
+x-cache: cp1065 hit/4, cp3040 hit/2, cp3043 hit/471176
+x-cache-status: hit-front
+x-client-ip: 194.44.222.0
+x-varnish: 228092892 218740118, 493475085 495853995, 353607555 965057995
+:authority: www.wikipedia.org
+:method: GET
+:path: /
+:scheme: https
+accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+accept-encoding: gzip, deflate, br
+accept-language: ru,en-US;q=0.9,en;q=0.8,uk;q=0.7
+cache-control: max-age=0
+cookie: WMF-Last-Access-Global=23-Mar-2018; GeoIP=UA:46:Lviv:49.84:24.03:v4; CP=H2; WMF-Last-Access=23-Mar-2018
+if-modified-since: Mon, 19 Mar 2018 11:07:26 GMT
+if-none-match: W/"122ea-567c1f68db213"
+upgrade-insecure-requests: 1
+user-agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+
+2.https://www.amazon.com/
+
+Request URL: https://www.amazon.com/
+Request Method: GET
+Status Code: 200 OK
+Remote Address: 52.222.172.155:443
+Referrer Policy: origin-when-cross-origin
+Cache-Control: no-cache
+Connection: keep-alive
+Content-Encoding: gzip
+Content-Language: en-US
+Content-Type: text/html;charset=UTF-8
+Date: Fri, 23 Mar 2018 17:53:03 GMT
+Expires: -1
+Pragma: no-cache
+Server: Server
+Set-Cookie: skin=noskin; path=/; domain=.amazon.com
+Strict-Transport-Security: max-age=47474747; includeSubDomains; preload
+Transfer-Encoding: chunked
+Vary: Accept-Encoding,User-Agent
+Via: 1.1 d79148f01e44f5598c15bdd5ce1c1997.cloudfront.net (CloudFront)
+X-Amz-Cf-Id: cyHyvtG9k4H82YT93eo2PRZK60TCgsTom8vli_LvzkQTulfCzwnniw==
+X-Cache: Miss from cloudfront
+X-Frame-Options: SAMEORIGIN
+X-UA-Compatible: IE=edge
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru,en-US;q=0.9,en;q=0.8,uk;q=0.7
+Cache-Control: max-age=0
+Connection: keep-alive
+Cookie: skin=noskin; session-id=142-7139745-1357224; session-id-time=2082787201l; x-wl-uid=1P5NhRLC0WOPQNE9IPh1x3QY8zxc7Y+XX55b/2164Pax461tjPYJJrjwjoFLsdIEBRI8MTYt4Dlk=; ubid-main=133-0184756-9597815; session-token=HahprcsoWQ5amE9qK+hw05c/W1venSLsz6ULLI5u2feKsGNOeucRGAMcb3JpaUVYoESEAgVU0WSfFMWj/xafDtXh3+XBdnPB6EjkabWL8os4dzjbirTIxdbfNkDF4BvJpX1jGjtfCmwCWZoOtInmm84OzwAwLmHNLQYQbHZXPShx5uPrlb42bcKTH7/U9BqUuCwEypvcg7GC6lNfQQoPB3BiPZcvKgDnFQH5plLui+vExhPSt4CNFCoS0CIjcO8s; csm-hit=adb:adblk_yes&tb:RVTRQW1WRFV04A6HM911+b-SP7WMR6A3JPBSVNJX6PA|1521827576460
+Host: www.amazon.com
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+
+3. https://www.instagram.com/
+
+Request URL: https://www.instagram.com/
+Request Method: GET
+Status Code: 200 
+Remote Address: 31.13.81.174:443
+Referrer Policy: origin-when-cross-origin
+cache-control: private, no-cache, no-store, must-revalidate
+content-encoding: gzip
+content-language: ru
+content-length: 5195
+content-type: text/html
+date: Fri, 23 Mar 2018 17:53:59 GMT
+expires: Sat, 01 Jan 2000 00:00:00 GMT
+pragma: no-cache
+set-cookie: rur=ATN; Path=/
+set-cookie: sessionid=; Domain=instagram.com; expires=Thu, 01-Jan-1970 00:00:00 GMT; Max-Age=0; Path=/
+set-cookie: sessionid=; Domain=.instagram.com; expires=Thu, 01-Jan-1970 00:00:00 GMT; Max-Age=0; Path=/
+set-cookie: sessionid=; Domain=www.instagram.com; expires=Thu, 01-Jan-1970 00:00:00 GMT; Max-Age=0; Path=/
+set-cookie: sessionid=; Domain=.www.instagram.com; expires=Thu, 01-Jan-1970 00:00:00 GMT; Max-Age=0; Path=/
+set-cookie: urlgen="{\"time\": 1521823743}:1ezQt5:Q1w02K0oCbCoweg6gLxlZ4upqzo"; Path=/
+set-cookie: csrftoken=XbS7cLkIkNSndF9Sw0mE0wTwgIjnoolT; expires=Fri, 22-Mar-2019 17:53:59 GMT; Max-Age=31449600; Path=/; Secure
+status: 200
+strict-transport-security: max-age=86400
+vary: Cookie, Accept-Language, Accept-Encoding
+x-frame-options: SAMEORIGIN
+:authority: www.instagram.com
+:method: GET
+:path: /
+:scheme: https
+accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+accept-encoding: gzip, deflate, br
+accept-language: ru,en-US;q=0.9,en;q=0.8,uk;q=0.7
+cache-control: max-age=0
+cookie: rur=ATN; csrftoken=XbS7cLkIkNSndF9Sw0mE0wTwgIjnoolT; mid=WrUv-AAEAAERzht1sMh5p1gSawaM; ig_pr=1; ig_or=landscape-primary; ig_vw=805; ig_vh=637; urlgen="{\"time\": 1521823743}:1ezQsz:y4NMKQMnfCGLuJRLu3yoNvPVbvg"
+upgrade-insecure-requests: 1
+user-agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+
+4. https://www.youtube.com/
+
+Request URL: https://www.youtube.com/
+Request Method: GET
+Status Code: 200 
+Remote Address: 216.58.215.78:443
+Referrer Policy: origin-when-cross-origin
+alt-svc: hq=":443"; ma=2592000; quic=51303432; quic=51303431; quic=51303339; quic=51303335,quic=":443"; ma=2592000; v="42,41,39,35"
+cache-control: no-cache
+content-encoding: br
+content-security-policy-report-only: frame-ancestors https://*.youtube.com; report-uri https://www.youtube.com/csp_204?t=framing
+content-type: text/html; charset=utf-8
+date: Fri, 23 Mar 2018 17:54:45 GMT
+expires: Tue, 27 Apr 1971 19:44:06 EST
+server: YouTube Frontend Proxy
+status: 200
+strict-transport-security: max-age=31536000
+x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN
+x-xss-protection: 1; mode=block; report=https://www.google.com/appserve/security-bugs/log/youtube
+:authority: www.youtube.com
+:method: GET
+:path: /
+:scheme: https
+accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+accept-encoding: gzip, deflate, br
+accept-language: ru,en-US;q=0.9,en;q=0.8,uk;q=0.7
+cache-control: max-age=0
+cookie: VISITOR_INFO1_LIVE=KYBlzEwsrv8; LOGIN_INFO=AFmmF2swRQIgGPKkd9OGKIcVJ4TVRlRQXJiI1j2ay6EG_NvWnNkX2tQCIQCMGIiCGXnHKJNKye9XVfSyAevFF1Zlcjlac2fVouG4-w:QUQ3MjNmeG5XV3lDb1VzM3JLMTRzOElXY25hMGxTdFdaN1VMRDZyQy1rbldhZnZkRmJlWlpBTk1qTlVKSGYzTV9sejhsT1o2UFpQY2UzWTRmb3VvQUtyLUFHSzMyWUZycXNuZ2tLLTRSSUFMSGF5THl1aFg2UWZ1ZEpsQkVlRDR4UnI0MVBrczRyXzhEN0VKZG9pMEp1aXdTQUg0dW5qVExYWmtpS1NfV2pPYzRmLTgyVGhDMnA0; PREF=al=uk&f1=50000000; YSC=shDejWcuI1Y; s_gl=da921031436d82404d81691fe6112514cwIAAABVQQ==; SID=6gXbYkOQ-9WANbLKyRRzUsX7AqVilCirF9fyHIG4zb8gWR4-3eTMpfzLaXTJ-_0Mig71dA.; HSID=A6j7pO038oLsGwJFN; SSID=A4ZxwYd59MQitIqYs; APISID=-K1KdKNGoqrg5otk/AFQU1a7oc-iInumbB; SAPISID=lb78VZsDHdVfaCLA/ARz_i3bZWEjYBQbiS
+upgrade-insecure-requests: 1
+user-agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+x-client-data: CKC1yQEIibbJAQiitskBCMS2yQEIqZ3KAQioo8oB
+
+5. https://www.google.com/
+
+Request URL: https://www.google.com/
+Request Method: GET
+Status Code: 200 
+Remote Address: 173.194.222.104:443
+Referrer Policy: origin-when-cross-origin
+alt-svc: hq=":443"; ma=2592000; quic=51303432; quic=51303431; quic=51303339; quic=51303335,quic=":443"; ma=2592000; v="42,41,39,35"
+cache-control: private, max-age=0
+content-encoding: br
+content-type: text/html; charset=UTF-8
+date: Fri, 23 Mar 2018 17:57:06 GMT
+expires: -1
+server: gws
+set-cookie: SIDCC=AAiTGe9WOjuFMRxbFMR9ZVCGFubc__I_9frzthSHJYWRx7u9gPFGUtFX9oWPtrKUKIZrvPmRA6I; expires=Thu, 21-Jun-2018 17:57:06 GMT; path=/; domain=.google.com; priority=high
+set-cookie: 1P_JAR=2018-03-23-17; expires=Sun, 22-Apr-2018 17:57:06 GMT; path=/; domain=.google.com
+set-cookie: OTZ=; expires=Mon, 01-Jan-1990 00:00:00 GMT; path=/; domain=google.com
+set-cookie: OTZ=; expires=Mon, 01-Jan-1990 00:00:00 GMT; path=/; domain=.google.com
+set-cookie: OTZ=; expires=Mon, 01-Jan-1990 00:00:00 GMT; path=/; domain=www.google.com
+set-cookie: OTZ=; expires=Mon, 01-Jan-1990 00:00:00 GMT; path=/; domain=.www.google.com
+status: 200
+strict-transport-security: max-age=86400
+x-frame-options: SAMEORIGIN
+x-xss-protection: 1; mode=block
+:authority: www.google.com
+:method: GET
+:path: /
+:scheme: https
+accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+accept-encoding: gzip, deflate, br
+accept-language: ru,en-US;q=0.9,en;q=0.8,uk;q=0.7
+cache-control: max-age=0
+cookie: OTZ=4311963_48_48_123900_44_436380; SID=6gXbYkOQ-9WANbLKyRRzUsX7AqVilCirF9fyHIG4zb8gWR4-3eTMpfzLaXTJ-_0Mig71dA.; HSID=AkoCjsJTLud3XvLHm; SSID=AXtiyK02ZDDcNqjWy; APISID=-K1KdKNGoqrg5otk/AFQU1a7oc-iInumbB; SAPISID=lb78VZsDHdVfaCLA/ARz_i3bZWEjYBQbiS; 1P_JAR=2018-03-23-17; NID=126=fxkgmK0AvhtTzHIRKSlWC0eUtL8DBa3XMgxasMnydfHPndy0x4ucfpuJmTKoa1vyXpaSKCJ0ymleLwsAXqOwJl20bGaZ3bKduNtYiWOYl5RzcZMJIVb_3fvn0A6_clOiw484SIR6PgcJI8toBWU6_kxhqBYZV6YDSYgl4q9MWhI2f_z6OB1QQIDnG3vTtLbx3RZlXScAhL98NMDYh6yY35Aakceuw6YhH8BwgQ; SIDCC=AAiTGe96W2MIcAhoJruLlJbtFg1W6-AekxQkwZfjJNDzl03ubnWp9_2n1fZ-vmjCTuetXosRjQA
+upgrade-insecure-requests: 1
+user-agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+x-client-data: CKC1yQEIibbJAQiitskBCMS2yQEIqZ3KAQioo8oB
